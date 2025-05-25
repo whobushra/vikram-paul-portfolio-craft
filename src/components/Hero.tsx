@@ -1,10 +1,9 @@
-
 import { Button } from "@/components/ui/button";
 import { Download, MessageSquare } from "lucide-react";
 
 const Hero = () => {
   return (
-    <section className="min-h-screen bg-gradient-to-br from-blue-50 via-purple-50 to-teal-50 flex items-center justify-center px-4 py-20">
+    <section className="min-h-screen bg-gradient-to-br from-blue-50 via-purple-50 to-teal-50 flex items-center justify-center px-4 py-20 pt-32">
       <div className="container mx-auto max-w-6xl">
         <div className="flex flex-col lg:flex-row items-center gap-12">
           {/* Text Content */}
